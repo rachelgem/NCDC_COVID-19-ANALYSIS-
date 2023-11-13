@@ -1,4 +1,4 @@
-thank## NCDC COVID-19 DATA ANALYSIS
+## NCDC COVID-19 DATA ANALYSIS
 
 
 ## Introduction
