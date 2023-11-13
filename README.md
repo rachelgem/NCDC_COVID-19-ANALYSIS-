@@ -1,4 +1,4 @@
-## NCDC COVID-19 DATA ANALYSIS
+thank## NCDC COVID-19 DATA ANALYSIS
 
 
 ## Introduction
@@ -20,4 +20,10 @@ Skills
 - Communication Skills.
 - Critical Thinking.
 - Problem Solving.
+
+## Data Exploration
+- I started by examining the general structure of the dataset. How many rows and columns are there? What are the names of the columns, and what type of information do they contain? 
+- I checked for missing values in the dataset. How prevalent are missing values, and do they follow any pattern?
+- I compare key metrics (confirmed cases, deaths, recoveries, testing) between different states. Are there notable differences, and what factors might contribute to these variations?
+
  
