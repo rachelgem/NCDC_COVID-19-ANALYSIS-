@@ -26,4 +26,8 @@ In the wake of the global pandemic, the National Center for Disease Control (NCD
 - I checked for missing values in the dataset. How prevalent are missing values, and do they follow any pattern?
 - I compare key metrics (confirmed cases, deaths, recoveries, testing) between different states. Are there notable differences, and what factors might contribute to these variations?
 
- 
+ ## Data Cleaning and Preprocessing
+- Identified and assessed missing values in the dataset.
+- I checked for and remove any duplicate rows in the dataset.
+- Ensured data types are appropriate for each column.
+- Checked for inconsistencies in the death rate column, such as different spellings of the same category, and               standardized them.
