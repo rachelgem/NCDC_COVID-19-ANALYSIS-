@@ -13,9 +13,11 @@ Problem Statement
 
 Skills
 - Statistical Knowledge
-- Data Visualization
-- Domain Knowledge 
-- Communication Skills
-- Critical Thinking
-- Problem Solving
+- Dashboard Creation.
+- Data Cleaning and Preprocessing.
+- Data Visualization.
+- Domain Knowledge.
+- Communication Skills.
+- Critical Thinking.
+- Problem Solving.
  
