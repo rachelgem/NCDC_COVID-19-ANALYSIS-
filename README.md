@@ -37,3 +37,8 @@ In the wake of the global pandemic, the National Center for Disease Control (NCD
 - The distribution of COVID-19-related deaths across various states reveals significant disparities. Lagos stands out       with the highest number of fatalities, totaling 780, indicating a more severe impact in that region. Edo, FCT, Oyo, and   Rivers follow with varying death counts, illustrating the diverse impact of the virus on different states.
 - The comprehensive analysis of COVID-19 recoveries in each state reveals that Lagos leads with the highest number of       recoveries, followed by FCT and Rivers.
 - The analysis of COVID-19 testing efforts among different states reveals significant variations. Lagos state leads with    the highest testing, totaling 1.5 million, followed by FCT with 750,000, Rivers with 500,000, Kaduna with 300,000, and    Edo state with 200,000.
+
+## Recommendations
+- Considering the distribution of confirmed COVID-19 cases across s highly affected areas like Lagos, FCT, and Rivers.      it's important to emphasize and enforce the use of face masks, social distancing, and hand hygiene in public spaces.      Also, enhance public awareness through clear and consistent communication about preventive measures and vaccination       benefits.
+- 
+- 
