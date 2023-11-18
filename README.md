@@ -40,5 +40,4 @@ In the wake of the global pandemic, the National Center for Disease Control (NCD
 
 ## Recommendations
 - Considering the distribution of confirmed COVID-19 cases across s highly affected areas like Lagos, FCT, and Rivers.      it's important to emphasize and enforce the use of face masks, social distancing, and hand hygiene in public spaces.      Also, enhance public awareness through clear and consistent communication about preventive measures and vaccination       benefits.
-- 
-- 
+- In states with higher fatality rates like Lagos, there's an increased urgency to reinforce healthcare infrastructure,     enhance testing, and accelerate vaccination efforts. Additionally, prioritizing targeted interventions in regions with    varying death counts, such as Edo, FCT, Oyo, and Rivers, can help mitigate the impact of the virus
