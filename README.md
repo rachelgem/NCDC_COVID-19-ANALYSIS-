@@ -1,6 +1,6 @@
 ## NCDC COVID-19 DATA ANALYSIS
 ![](covid_19.jpg)
-![](NCDC.PNG)
+
 ## Introduction
 In the wake of the global pandemic, the National Center for Disease Control (NCDC) has played a pivotal role in monitoring and managing the impact of COVID-19. We will delve into the total confirmed cases, deaths, recoveries, in each state. We're also looking at how much testing has been done. By breaking it down state by state, we aim to uncover patterns and better understand how different areas are coping. Join us in decoding the numbers to get a clearer picture of how COVID-19 is affecting communities across the country.
 
@@ -33,6 +33,8 @@ In the wake of the global pandemic, the National Center for Disease Control (NCD
 - Checked for inconsistencies in the death rate column, such as different spellings of the same category, and               standardized them.
 
 ## Visualization and Analysis
+
+![](NCDC.PNG)
 - Lagos state has reported the highest number of confirmed COVID-19 cases, totaling 100,000, followed by the FCT with       30,000, Rivers with 15,000, Kaduna with 7,000, and Oyo with 5,000.
 - The distribution of COVID-19-related deaths across various states reveals significant disparities. Lagos stands out       with the highest number of fatalities, totaling 780, indicating a more severe impact in that region. Edo, FCT, Oyo, and   Rivers follow with varying death counts, illustrating the diverse impact of the virus on different states.
 - The comprehensive analysis of COVID-19 recoveries in each state reveals that Lagos leads with the highest number of       recoveries, followed by FCT and Rivers.
